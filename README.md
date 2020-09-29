@@ -1,2 +1,3 @@
-# test-case-management-system
-A simple system that uploads test cases automatically to test case library.
+# Test Case Management System
+frontend -- vue.js | element ui
+backend  -- python | flask
